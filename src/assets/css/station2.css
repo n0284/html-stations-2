@@ -17,3 +17,11 @@
   height: 300px;
   background-color: #3cb371;
 }
+
+#red,#blue {
+  float: left;
+}
+
+#green {
+  clear: both;
+}
